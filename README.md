@@ -112,7 +112,7 @@ We thank the research teams and all study participants whose efforts contributed
 
 License
 
-This project is not lincensed
+This project is licensed under the MIT License.
 
 Contact
 
